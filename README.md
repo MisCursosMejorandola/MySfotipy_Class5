@@ -2,4 +2,4 @@ MySfotipy_Class5
 ================
 
 Proyecto Curso Profesional de Frontend
-Implementando Backbone.js en el proyecto
+Implementación básica de Backbone.js en la aplicación Sfotipy!

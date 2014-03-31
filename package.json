@@ -1,0 +1,14 @@
+{
+  "name": "MySfotipy",
+  "version": "0.0.1",
+  "description": "A Spotify Clone (?)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sergio Acosta <and_acosta@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.3"
+  }
+}
